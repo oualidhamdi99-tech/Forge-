@@ -1,0 +1,1 @@
+import{W as e,q as t,s as n}from"./createLucideIcon-DGXf8NaZ.js";var r=t(e(),1);function i(e){let t=n();return r.useCallback(n=>t.navigate({...n,from:n.from??e?.from}),[e?.from,t])}export{i as t};

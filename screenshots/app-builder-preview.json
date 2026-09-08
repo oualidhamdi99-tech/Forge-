@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "FORGE",
+      "hasCanvas": false,
+      "bodyTextLen": 27,
+      "bodyTextHash": "85b6bae7b6bed7129f62d125b3a78c6ccb7773238e16c7d047c3361e3870f630",
+      "bodyTextPrefix": "FORGE Today Program History",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "FORGE",
+      "hasCanvas": false,
+      "bodyTextLen": 707,
+      "bodyTextHash": "77db0ff843a1530f04c5ca1b9e608f8d9d27e09cbc803628b76dd9177a20b47d",
+      "bodyTextPrefix": "FORGE TUESDAY DAY 2 PULL · HYPERTROPHY HOW FORGE WORKS Log every",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
